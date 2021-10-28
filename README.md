@@ -1,9 +1,10 @@
 # Udacity Project:My Reads App
 
 This app can be used to sort your reads into three categoires:
-1-Currently Reading
-2-Want to Read
-3-Read "The books that you have already Read"
+
+- Currently Reading
+- Want to Read
+- Read "The books that you have already Read"
 
 # Installation
 
