@@ -6,6 +6,13 @@ This app can be used to sort your reads into three categoires:
 - Want to Read
 - Read "The books that you have already Read"
 
+# Build Tools
+
+- React
+- React Router
+- React-Bootstrap
+- CSS
+
 # Installation
 
 ### Step 1: Make sure Node and npm are installed from the terminal.
