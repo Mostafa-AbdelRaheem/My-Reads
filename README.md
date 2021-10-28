@@ -18,7 +18,6 @@ This app can be used to sort your reads into three categoires:
 ### Step 1: Make sure Node and npm are installed from the terminal.
 
 ```
-node -v
 npm -v
 ```
 
