@@ -1,15 +1,35 @@
-# MyReads Project
+# Udacity Project:My Reads App
 
-This is the starter template for the final assessment project for Udacity's React Fundamentals course. The goal of this template is to save you time by providing a static example of the CSS and HTML markup that may be used, but without any of the React code that is needed to complete the project. If you choose to start with this template, your job will be to add interactivity to the app by refactoring the static code in this template.
+This app can be used to sort your reads into three categoires:
+1-Currently Reading
+2-Want to Read
+3-Read "The books that you have already Read"
 
-Of course, you are free to start this project from scratch if you wish! Just be sure to use [Create React App](https://github.com/facebookincubator/create-react-app) to bootstrap the project.
+# Installation
 
-To get started developing right away:
+### Step 1: Make sure Node and npm are installed from the terminal.
 
-* install all project dependencies with `npm install`
-* start the development server with `npm start`
+```
+node -v
+npm -v
+```
+
+### Step 2 : npm install
+
+in order to get all the dependencies we need to install npm
+
+```
+npm install
+```
+
+### Step 3: Start the Project
+
+```
+npm start
+```
 
 ## What You're Getting
+
 ```bash
 ├── CONTRIBUTING.md
 ├── README.md - This file.
@@ -37,11 +57,10 @@ To get started developing right away:
     └── index.js # You should not need to modify this file. It is used for DOM rendering only.
 ```
 
-
 ## App
 
 This app is React.js app for sort the book you would like to read
 the books can be categorized to :
-	1-Currently reading
-	2-want to read
-	3-Read
+1-Currently reading
+2-want to read
+3-Read
